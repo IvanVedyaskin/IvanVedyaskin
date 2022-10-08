@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IvanVedyaskin
+- 👀 I’m interested in Java backend develop
+- 🌱 I’m currently learning at School 21
+- 📫 How to reach me: https://t.me/VedyaskinIvan
